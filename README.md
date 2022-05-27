@@ -1,1 +1,1 @@
-# oriented_detection
+# 外接水平框内任意四边形的交并比损失函数
